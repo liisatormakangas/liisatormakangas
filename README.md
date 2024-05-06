@@ -1,5 +1,5 @@
 ## Liisa Törmäkangas :ok_woman:
-> sóon to be a full stack / mobile developer
+> soon to be a full stack / mobile developer
 
 ---
 
@@ -27,7 +27,7 @@
 **Mobile**  
 💬 Kotlin - Jetpack Compose  
 💬 React Native  
-**Other**
+**Other**  
 💬 Python  
 💬 HTML / CSS  
 
