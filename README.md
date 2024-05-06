@@ -7,7 +7,7 @@
 
 🌱 I am a career changer excited about software development and currently stydying Information Technology at OAMK (2nd year, graduating by the end of this year)
 
-🌱 This GitHub profile includes my code portfolio - NewCodePortfolio - (peaces of code written mainly before my IT studies), and some project works I have attented during my current studies
+🌱 This GitHub profile includes my code portfolio - NewCodePortfolio - (peaces of code written mainly before my current IT studies), and some project works I have attented during my current studies
 
 ### Main languages and frameworks used
 
