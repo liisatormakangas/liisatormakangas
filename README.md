@@ -3,7 +3,7 @@
 
 ---
 
-### About me
+### About
 
 🌱 I am a career changer excited about software development and currently stydying Information Technology at OAMK (2nd year, graduating by the end of this year)
 
