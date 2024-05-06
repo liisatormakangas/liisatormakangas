@@ -12,35 +12,25 @@
 ### Main languages and frameworks used
 
 #### frontend/client:
-💬 JavaScript/Typescript
-
-💬 React - Node.js, Next.js
-
+💬 JavaScript/Typescript  
+💬 React - Node.js, Next.js  
 #### backend/api
-💬 Express - Node.js
-
-💬 Java
+💬 Express - Node.js  
+💬 Java  
 #### Databases
-💬 PostGreSQL
-
-💬 MySQ
-
-💬 MongoDB
-
+💬 PostGreSQL  
+💬 MySQ  
+💬 MongoDB  
 #### Cloud
-💬 Google Firebase
-
-💬 Microsoft Azure
-
+💬 Google Firebase  
+💬 Microsoft Azure  
 #### Mobile
-💬 Kotlin - Jetpack Compose
-
-💬 React Native
+💬 Kotlin - Jetpack Compose  
+💬 React Native  
 
 #### Other
-💬 Python
-
-💬 HTML / CSS
+💬 Python  
+💬 HTML / CSS  
 
 ---
 
