@@ -13,13 +13,13 @@
 
 **frontend/client:**  
 💬 JavaScript/Typescript  
-💬 React - Node.js, Next.js  
+💬 React, Next.js  
 **backend/api**  
 💬 Express - Node.js  
 💬 Java  
 **Databases**  
 💬 PostGreSQL  
-💬 MySQ  
+💬 MySQL  
 💬 MongoDB  
 **Cloud**  
 💬 Google Firebase  
