@@ -1,5 +1,4 @@
 ## Liisa Törmäkangas :ok_woman:
-> soon to be a full stack / mobile developer
 
 ---
 
